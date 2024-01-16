@@ -1,0 +1,3 @@
+[submodule "graalvmdemo2"]
+	path = graalvmdemo2
+	url = ./graalvmdemo2
